@@ -45,4 +45,4 @@ $ docker run -p 8000:80 --name stackoverflow_fastapi -it stackoverflow_fastapi
 ```
 
 Once app is launched use it in browser :
-http://localhost
+http://localhost:8000
